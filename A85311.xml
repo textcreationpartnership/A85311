@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer of Giles Firmin, to the vain and unprofitable question put to him, and charged upon him by Mr. Grantham, in his book, entituled, The infants advocate : viz. whether the greatest part of dying infants shall be damned? : Which advocate, while he shuts all infants out of the visible church, and denies them baptism, opens heaven to all dying infants, justifying those of his party, who admit them all as he doth, into Heaven without regeneration.</title>
+            <author>Firmin, Giles, 1614-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85311</idno>
+            <idno type="STC">Wing F954A</idno>
+            <idno type="STC">ESTC S122452</idno>
+            <idno type="EEBO-CITATION">43078082</idno>
+            <idno type="OCLC">ocm 43078082</idno>
+            <idno type="VID">151553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151553)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2264:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer of Giles Firmin, to the vain and unprofitable question put to him, and charged upon him by Mr. Grantham, in his book, entituled, The infants advocate : viz. whether the greatest part of dying infants shall be damned? : Which advocate, while he shuts all infants out of the visible church, and denies them baptism, opens heaven to all dying infants, justifying those of his party, who admit them all as he doth, into Heaven without regeneration.</title>
+                  <author>Firmin, Giles, 1614-1697.</author>
+                  <author>Grantham, Thomas, d. 1664. Infants advocate.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Lawrence, at the Angel over-against the Poultrey-Compter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC LXXXIX [i.e. 1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The preface may be very useful for the children of godly parents."</note>
+                  <note>Page 7 numbered as 9.</note>
+                  <note>Reproduction of original in: Congregational Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151553:1" rendition="simple:additions"/>
+            <p>THE ANSWER OF Giles Firmin, TO THE Vain and Unprofitable Queſtion put to him, and Charged upon him by Mr. <hi>GRANTHAM,</hi> In his Book, Entituled, <hi>The INFANTS ADVOCATE:</hi> VIZ. <hi>Whether the greatest Part of Dying Infants ſhall be Damned?</hi> Which <hi>Advocate,</hi> while he ſhuts all Infants out of the <hi>Viſible Church,</hi> and denies them <hi>Baptiſm,</hi> opens Heaven to all Dying Infants, juſtifying thoſe of his Party, who admit them all as he doth, into Heaven <hi>without Regeneration. The Preface may be very Uſeful for the Children of Godly Parents.</hi>
+            </p>
+            <q>Quo loco, illud praefandum eſſe videtur, Miſerecordiam noſtram erga parnulos jam defunctos, nihil eis prodeſſe, &amp; contra nihil eiſdem obeſſe, ſententiae no<g ref="char:EOLhyphen"/>ſtrae ſeveritatem: multum autem nobis obeſſe, ſi ob inutilem Miſericordiam erga defunctos, pertinaciter aliquid contra Scripturas aut Eccleſiam de<g ref="char:EOLhyphen"/>fendamus. Id circo non affectum quendam humanum, quo plerique moveri ſolent, ſed Scripturae, Conciliorum, &amp; Patrum Sententiam conſulere debe<g ref="char:EOLhyphen"/>mus.
+<bibl>
+                  <hi>Bellar. Praef. To. 4. p. 145. a.</hi>
+               </bibl>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2</hi> Epheſ. <hi>3.</hi>
+               </bibl> 
+               <hi>And were by Nature Children of Wrath, even as others.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>3</hi> Joh. <hi>3.5.</hi>
+               </bibl> 
+               <hi>Except a Man be born again, he cannot ſee the Kingdom of God.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>12 Heb. 14.</hi>
+               </bibl> 
+               <hi>Follow—Holineſs, without which no Man ſhall ſee God.</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Lawrence,</hi> at the <hi>Angel</hi> over-againſt the <hi>Poultrey-Compter.</hi> MDCLXXXIX.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:151553:2"/>
+            <pb facs="tcp:151553:2"/>
+            <p>THE ANSWER OF Giles Firmin, TO THE Vain and Unprofitable Queſtion put to him, and Charged upon him by Mr. <hi>GRANTHAM,</hi> In his Book, Entituled, <hi>The INFANTS ADVOCATE:</hi> VIZ. <hi>Whether the greatest Part of Dying Infants ſhall be Damned?</hi> Which <hi>Advocate,</hi> while he ſhuts all Infants out of the <hi>Viſible Church,</hi> and denies them <hi>Baptiſm,</hi> opens Heaven to all Dying Infants, juſtifying thoſe of his Party, who admit them all as he doth, into Heaven <hi>without Regeneration. The Preface may be very Uſeful for the Children of Godly Parents.</hi>
+            </p>
+            <q>Quo loco, illud praefandum eſſe videtur, Miſerecordiam noſtram erga parnulos jam defunctos, nihil eis prodeſſe, &amp; contra nihil eiſdem obeſſe, ſententiae no<g ref="char:EOLhyphen"/>ſtrae ſeveritatem: multum autem nobis obeſſe, ſi ob inutilem Miſericordiam erga defunctos, pertinaciter aliquid contra Scripturas aut Eccleſiam de<g ref="char:EOLhyphen"/>fendamus. Id circo non affectum quendam humanum, quo plerique moveri ſolent, ſed Scripturae, Conciliorum, &amp; Patrum Sententiam conſulere debe<g ref="char:EOLhyphen"/>mus.
+<bibl>
+                  <hi>Bellar. Praef. To. 4. p. 145. a.</hi>
+               </bibl>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2</hi> Epheſ. <hi>3.</hi>
+               </bibl> 
+               <hi>And were by Nature Children of Wrath, even as others.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>3</hi> Joh. <hi>3.5.</hi>
+               </bibl> 
+               <hi>Except a Man be born again, he cannot ſee the Kingdom of God.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>12 Heb. 14.</hi>
+               </bibl> 
+               <hi>Follow—Holineſs, without which no Man ſhall ſee God.</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151553:3"/>
+            <pb n="1" facs="tcp:151553:3"/>
+            <head>THE ANSWER TO HIS PREFACE.</head>
+            <p>THE Preface is more conſiderable than his whole Book, there being ſomething in it which concerns our Practice. In it he juſtifies himſelf in his <hi>ſcoffing</hi> at me, for the experi<g ref="char:EOLhyphen"/>ence I have found of the benefit of <hi>Abraham</hi>'s, and my Ba<g ref="char:EOLhyphen"/>ptiſmal Covenant when an Infant. Let the Reader take it ſhortly thus:</p>
+            <p>The Covenant I mention is, as I ſaid, that Covenant which God made with our Father <hi>Abraham, and his Seed,</hi> 17 Gen. 7. which Co<g ref="char:EOLhyphen"/>venant holds
+<note n="*" place="margin">I gave him ſix Scriptures to prove it, but he not one on the contrary.</note> ſtill with Believers and their Seed, and ſhall hold ſo long as there are Believers in Chriſt [<hi>Abraham</hi>'s Seed, 3 Gal. 29.] upon Earth; unleſs the <hi>Anabaptiſts</hi> can ſhew us where God hath <hi>expreſly</hi> Repealed <hi>that Covenant,</hi> as he hath done other Covenants. To which I have ſpoken
+<note n="†" place="margin">See Scri<g ref="char:EOLhyphen"/>pture Wor. <hi>p.</hi> 8, 9, 10. 17 <hi>Prov.</hi> 16.</note>.</p>
+            <p>My Father then being a Son [as my Mother a Daughter] of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> this Covenant ran down to his Seed: He could plead this Co<g ref="char:EOLhyphen"/>venant for us; and when I came to Underſtanding, I did plead it for my ſelf. <hi>Here was a Price in my Hand,</hi> and I reſolved to improve it. Beſides this Covenant, I read other Promiſes made to the Seed of Godly Parents, as 20 <hi>Exod.</hi> 6. 30 <hi>Deut.</hi> 6. 112 <hi>Pſal.</hi> 2. 20 <hi>Prov.</hi> 7.43 <hi>Iſa.</hi> 3. &amp;c. The Spirit of God did not inſpire theſe Penmen to write theſe Promiſes to fill up Paper, that we ſhould only read them, and not make uſe of them: let Children of ſuch Parents look to this. Theſe Promiſes, this Covenant, I believed, I highly prized, I begg'd the fulfilling of them many Years, being willing
+<note n="‖" place="margin">Nos volu<g ref="char:EOLhyphen"/>mus ſed ille facit ut ve<g ref="char:EOLhyphen"/>limus Au<g ref="char:EOLhyphen"/>guſt.</note> to have <hi>Abraham</hi>'s
+<pb n="2" facs="tcp:151553:4"/>God to be <hi>my God,</hi> as he was <hi>His,</hi> and my <hi>Father</hi>'s God, and I willing to be <hi>His,</hi> as <hi>Abraham</hi> and my Father were. And ſince he had promiſed <hi>Bleſſings</hi> ſeveral times, but did not ſpecifie what Bleſſings, I choſe my <hi>Bleſſings,</hi> to wit, <hi>All Spiritual Bleſſings in Christ Jeſus,</hi> 1 <hi>Epheſ.</hi> 3. without which I eſteemed nothing to be a Bleſſing, <hi>Non Entitie,</hi> being a ſtate far better than all other <hi>Bleſſings</hi> without them.</p>
+            <p>And whereas I was for ſeveral Years troubled about <hi>Legal Preparations, and Qualifications of Promiſes</hi>
+               <note n="*" place="margin">As 11 Matth. 28.61 Iſa. 1.19 Luke 10. &amp;c.</note>, [which I do not wonder, tho' Mr. <hi>Grantham,</hi> and his Sect, are never troubled a<g ref="char:EOLhyphen"/>bout being <hi>Active,</hi> not <hi>Paſſive,</hi> in their own <hi>Begetting</hi>
+               <note n="†" place="margin">Regene<g ref="char:EOLhyphen"/>ration and Converſi<g ref="char:EOLhyphen"/>on differ.</note>] I found in this Covenant, and theſe Promiſes a great help. Here God offered, yea, Covenanted to be <hi>my God,</hi> would I take him for <hi>my</hi> God, and give up my ſelf to <hi>him;</hi> this I found my Heart wil<g ref="char:EOLhyphen"/>ling to do.</p>
+            <p>And whereas upon this <hi>Covenant-Interest,</hi> my Parents did dedi<g ref="char:EOLhyphen"/>cate me to God in my Baptiſm, when I came to underſtand my <hi>Baptiſmal-Covenant,</hi> what was contained in it, I bleſſed that God who was aforehand with me: I owned my <hi>Dedication;</hi> and for many Years followed God, that he would pleaſe to fulfil his part of the Covenant, and in the ſtrength thereof I would endeavour to ful<g ref="char:EOLhyphen"/>fil mine. And in theſe Covenants have I found Relief under many, yea many many Temptations.</p>
+            <p>This is the Sum of what I wrote. <hi>Plea</hi> from <hi>page</hi> 63. to <hi>page</hi> 72.</p>
+            <p>To this Mr.
+<note place="margin">Preſump. <hi>p.</hi> 6.</note> 
+               <hi>Grantham</hi> anſwers. <hi>It would make a well Man ſlck to ſee what work he makes of it, for after all his ſhifting from Post to Pillar, he only gets Stomach to reject the Councel of God against himſelf,</hi> 7 Luke 30. If this be not <hi>ſcoffing,</hi> let the Reader judge; and that not only a <hi>ſcoffing</hi> at my <hi>Experience,</hi> but at that <hi>Duty</hi> which is incumbent upon all Baptized Children under <hi>Abraham,</hi> and their <hi>Baptiſmal Covenant.</hi> But in this he juſtifies him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>The next thing you charge me with, <hi>Is eating of Blood,</hi> contrary to the Decrees of the Apoſtles and Elders, 15 <hi>Acts.</hi> I ſay with B. <hi>Auſtin, Tho' the Ceremonial Law be dead, yet it is fit it ſhould have a comely Burial.</hi> And having been buried ſo many hundred Years, that I may profeſs my Faith in theſe Truths, <hi>viz. That the Blood which makes the Atonement for my Soul, is ſhed,</hi> 17 <hi>Levit.</hi> 10.11. with 1 <hi>Col.</hi> 20. 2 <hi>Epheſ.</hi> 13.14.</p>
+            <p>Secondly, <hi>That Christ hath broken down the Partition-Wall,</hi> [in which Wall <hi>Blood</hi> was one Stone] <hi>between Jew and Gentile,</hi> 2 Epheſ. 14.</p>
+            <pb n="3" facs="tcp:151553:4"/>
+            <p>Thirdly, <hi>That there is nothing unclean in it ſelf,</hi> 14 Rom. 14. I ſay, to declare my Faith in theſe Truths, I would now eat a <hi>Blood-Pudding</hi> in the face of Mr. <hi>Grantham,</hi> or any <hi>Jew,</hi> provided it be prepared <hi>S. A.</hi> that is, ſaith Mr. <hi>Grantham, Sir Anabaptist.</hi> No indeed <hi>Sir,</hi> you are as much miſtaken now, as when you told us, <hi>Tranſubſtantiation was never heard of, till it was invented in the Council of</hi> Trent. <hi>S. A.</hi> that is, <hi>Secundum Anteum.</hi>
+               <note n="*" place="margin">As Phy<g ref="char:EOLhyphen"/>ſitians in their Bills, let the Bill be prepa<g ref="char:EOLhyphen"/>red <hi>S. A.</hi>
+               </note>: If a good Cook hath the preparing of them, elſe I care not for them. But I thank you for the ſport you have made us, by interpreting <hi>S. A.</hi>
+            </p>
+            <p>For the reſt of your Preface, I told you if there were any falſe Stories blame not me, they came from your own Party, boaſting of you very much: As ſince you wrote againſt me, a Friend of mine being at <hi>London,</hi> and diſcourſing with one of your Tribe, about diſputing, <hi>We,</hi> ſaid he, <hi>will ſet a Taylor to Diſpute with him.</hi> That I ſee this <hi>Taylor</hi> is a great Man in the <hi>Anabaptiſts</hi> Opinion, and in his own too, elſe he would not have carried himſelf ſo proudly in the <hi>Arminian</hi> Controverſie, when I gave him no oc<g ref="char:EOLhyphen"/>caſion to meddle with it. It being a Controverſie, in which Pious, and very Learned Men, other manner of Men than He and I am, have laboured very much, that this Man ſhould jump off his <hi>Taylors<g ref="char:EOLhyphen"/>ſhop-board,</hi> and after ſome Study, take the <hi>Doctors Chair,</hi> as if he were <hi>the Man</hi> to determine thoſe Queſtions, when I ſee he is but a Smatterer, and knows not the depth of that Controverſie. Upon this ground, with the former, finding him a <hi>Scoffer,</hi> and one as I un<g ref="char:EOLhyphen"/>derſtand, that denies Communion with all Churches [tho' nothing which is Human is impoſed] but <hi>dipt</hi> Churches, I did not treat him with that Reſpect, as I have done other Men.</p>
+            <p>To one of his Diſciples that ſows the ſame <hi>Darnel</hi> in theſe parts, which he doth elſewhere, I mentioned three Paſtors, and Churches; I am ſure for Holineſs and Abilities, there are none ſuch among the <hi>Anabaptiſts,</hi> no nor under the Sun; yet he, forſooth, would have no Communion with them, they were not Dipt, I deſire no acquain<g ref="char:EOLhyphen"/>tance with ſuch.</p>
+            <p>For my own part, I have held Communion in the Holy Supper, and do daily in my Prayers remember one <hi>Anabaptist,</hi> whom I found ſound in other Points, and walking humbly; ſo that certainly I am no <hi>Deſpiſer of them who Worſhip God according to his Will,</hi> as you charge me to be
+<note n="†" place="margin">Page 19.</note>, and ſo would prove me, <hi>not to do the Works of Abraham.</hi> If <hi>Re baptizing</hi> were Worſhip; according to his Will, which I deny: As for Baptizing by Dipping of thoſe who were never Baptized, I am not againſt it, if Adminiſtred by one
+<pb n="4" facs="tcp:151553:5"/>Qualified, Called, and Ordained according to the Goſpel. This Charge is as true as divers others I meet with in your Book; out of which I will only take the moſt material Things, and let your other Impertinencies alone.</p>
+            <closer>
+               <date>16 <hi>Decemb.</hi> 1688.</date>
+               <signed>
+                  <hi>The Servant of the Seed of Believers,</hi> G. FIRMIN.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:151553:5"/>
+            <head>THE ANSWER TO HIS Vain Queſtion.</head>
+            <p>AS for the <hi>Two Queſtions</hi> I propounded to the <hi>Anabaptiſts,</hi> you tell me, You have anſwered them, and ſo you have done with them. But others ſay, You have anſwered no<g ref="char:EOLhyphen"/>thing. And I ſay, If they cannot be anſwered better than you have done, we will go on to Baptize the Infants of Believing Parents without any ſcruple.</p>
+            <p>Now you give me <hi>Two</hi> other Queſtions.</p>
+            <p n="1">I. Queſt. <hi>Whether God required Baptiſm, or any other Rite, to be ne<g ref="char:EOLhyphen"/>ceſſary to the Salvation of Infants?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> What need this Queſtion, ſince I told you
+<note n="*" place="margin">Plea, <hi>p.</hi> 20.</note> I do not think <hi>Baptiſm</hi> to be abſolutely neceſſary, either for Infants, or Adult Per<g ref="char:EOLhyphen"/>ſons, as if without it they could not be ſaved. I named the Scripture to prove it: I gave the Opinion of our Proteſtants; I add now, ſome of the Papiſts, even <hi>Lumbard</hi>
+               <note n="†" place="margin">L. 4. Diſt. 4.</note> himſelf is of the ſame Judgment.</p>
+            <p>The ſame was, and is my Opinion concerning <hi>Circumciſion,</hi> which made me wonder you ſhould ſo often tell your Reader, twice in one <hi>pag.</hi> 21. [where you tell me, <hi>You admire my great blindneſs]</hi> that I have ſaid, <hi>If</hi> Iſaac <hi>had died before he had been eight days old, he had not been ſaved:</hi> An abominable falſhood, I never had ſuch a thought. You ſay, <hi>pag.</hi> 6. <hi>You have done me no wrong, in ſhewing my Opinion:</hi> Yes, Mr. <hi>Grantham,</hi> as much wrong as <hi>Falſhood</hi> can do <hi>Truth.</hi> If
+<pb n="6" facs="tcp:151553:6"/>your Choler have done boiling, the Fumes whereof troubled your ſight, rub your Eyes, and put on your Spectacles, and read the for<g ref="char:EOLhyphen"/>mer Paragraphs, upon which thoſe words about <hi>Iſaac</hi> depend, and you will find this Sence. I was ſpeaking of the Grace of God in making that Covenant with <hi>Abraham,</hi> and his Seed, and Sealing it. Suppoſe, I ſaid, it were true which you ſay, <hi>That all dying Infants are ſaved,</hi> yet certainly there is a Bleſſing in this Covenant, that God makes and Seals with <hi>Iſaac,</hi> ſaid I, for God does not make Covenants in vain. But how does this prove, what you charge me with? I doubt not but as God ſaved Infants before Circumciſion was Inſtituted, ſo he did after without it.</p>
+            <p>But tho' there be no ſuch <hi>abſolute neceſſity,</hi> as I ſaid before, yet when God Inſtitutes any Ordinance there is a <hi>neceſſity</hi> lies upon us, to obſerve his Inſtitution reverently, and I do believe God doth convey Grace by them. For, as I ſaid concerning <hi>Circumciſion,</hi> it had <hi>Spi<g ref="char:EOLhyphen"/>ritual Ends;</hi> God ſtrictly chargeth this Ordinance to be adminiſtred to Infants of eight days old, which could not Co-work with him in the Adminiſtration of it; then he himſelf muſt do it, elſe the Spiri<g ref="char:EOLhyphen"/>tual Ends could not be attained, there is only a ſign, but not the thing ſignified in any one Infant; ſo the Ordinance is but in vain, which do not conſiſt with the Wiſdom, Grace, and Holineſs of God. 1. As it was in Circumciſion, ſo in Baptiſm, which ſucceed in the room of it. Though Circumciſion and Baptiſm are nothing without the Spirit, yet with the Spirit, Baptiſm is not inferiour to Circumciſi<g ref="char:EOLhyphen"/>on: He did work then, and doth work now, when and where he pleaſeth with it.</p>
+            <div type="part">
+               <head>II. Queſt. <hi>Whether the greatest part of dying Infants ſhall be Damned?</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> A very Vain Queſtion: Take your Anſwer from <hi>Bellarmin,</hi> in my Title-Page. But further, in your Firſt Book, <hi>p.</hi> 7. you charge ſome <hi>Independents,</hi> and <hi>Presbyterians</hi> with this cruel Doctrine, but you name none. In this you charge only <hi>Presbyterians;</hi> and any Man who reads your Title-Page, will conclude that I am a <hi>Presbyterian,</hi> and that I own that <hi>Cruel Dectrine.</hi> I anſwer:</p>
+               <p>I hold Communion both with <hi>Independents</hi> and <hi>Presbyterians,</hi> but that I am a <hi>Presbyterian,</hi> is more then I knew before, or know now.</p>
+               <p>As to the Opinion you charge me with, Mr. <hi>Grantham,</hi> if you be a Man of Truth, and would not juſtly be charged with a Lye, name the <hi>Page</hi> in my Book, where I have written any ſuch thing: Sure I am, <hi>I never ſpake it, I never wrote it, I never thought it.</hi>
+               </p>
+               <p>It was never the Queſtion. Thoſe which I treated of, were:</p>
+               <p>
+                  <hi>Queſt. I.</hi> Whether God Regenerates any Infants?</p>
+               <pb n="9" facs="tcp:151553:6"/>
+               <p n="2">2. Whether God Circumciſe the Hearts of any Infants? [Which your Diſciple ſaid true, come both to one.] Both which were de<g ref="char:EOLhyphen"/>nied by two of your Sect, and the latter denied by your ſelf
+<note n="*" place="margin">Againſt Mr. <hi>Petto.</hi> p. 51.</note>.</p>
+               <p>I proved, if Infants be <hi>Saved,</hi> they muſt be <hi>Regenerated,</hi> 3 <hi>Joh.</hi> 3. They muſt be <hi>Sanctified.</hi> Heaven is an Inheritance only for <hi>Sancti<g ref="char:EOLhyphen"/>fied</hi> Perſons, 20 <hi>Act.</hi> 32. and 26 <hi>chap.</hi> 18. They muſt be made <hi>meet</hi> for it, 1 <hi>Col.</hi> 12. I am ſure they are not <hi>meet</hi> for it by Na<g ref="char:EOLhyphen"/>ture.</p>
+               <p>But whether God Regenerates all Infants, or the greater, or the leſſer part of Infants, I wrote not one word: How ſhould I know what God hath not revealed, 29 <hi>Deut.</hi> 29. How could you then charge ſuch a Doctrine upon me, in your Title-page?</p>
+               <p>In the Concluſion of your Book you tell your Reader, Mr. <hi>Firmin</hi> ſeems diſpleaſed at the multitude which ſhall be ſaved; if my Opinion be true, <hi>all dying Infants are ſaved,</hi> &amp;c.</p>
+               <p>I ſhall anſwer you very briefly. That you might ſhew your ſelf to be a Learned Man in the <hi>Arminian</hi> Controverſie, [which I gave you no occaſion to meddle with] you tell me,
+<note place="margin">Preſump. <hi>p.</hi> 8.</note> 
+                  <hi>This ſtrange Do<g ref="char:EOLhyphen"/>ctrine of damning the greatest part of the World, and that before the World was—makes God the Author of all ſin,</hi> &amp;c. To the firſt part I only anſwered by Chriſt's words, 7 <hi>Matth.</hi> 14. As for <hi>Huberus,</hi> and <hi>Caelius Secundus Curio,</hi> they were of your ſide. But mark your own words Mr. <hi>Grantham,</hi> the damning of the greateſt part of the <hi>World;</hi> not the greateſt part of <hi>Infants:</hi> I hope the <hi>World</hi> and <hi>In<g ref="char:EOLhyphen"/>fants,</hi> are not the ſame; then as yet you cannot faſten this <hi>Cruel Do<g ref="char:EOLhyphen"/>ctrine</hi> upon me.</p>
+               <p>As for the words of Chriſt, 7 <hi>Matth.</hi> 14. <hi>Few find it,</hi> you anſwer me, quoting 2 <hi>Pet.</hi> 3.9. &amp;c. <hi>That the far greater part will deſpiſe the Riches of God's goodneſs,</hi> &amp;c. But I ſay, if they do ſo <hi>finally,</hi> they are damned; and this is <hi>ſtrange Doctrine</hi> with you.</p>
+               <p>
+                  <hi>As for Infants,</hi> ſay you, <hi>they are in no danger by this Text, they may be</hi> [you ſhould ſay they <hi>are,</hi> not <hi>may be] all ſaved, and ſo the number of the ſaved be much greater by them. For none of them walk in the broad way, therefore they must needs go the way which lead to Life.</hi>
+               </p>
+               <p>But I pray, is the number of them that are ſaved ſo much greater by them, that the words of Chriſt, <hi>Few find it,</hi> are not true? Elſe you do not take of my Anſwer: You Confute not me, but our Lord, the words are <hi>his</hi> not mine.</p>
+               <p>As for your proof, <hi>David</hi> ſaith, 58 <hi>Pſal.</hi> 3. <hi>The wicked are eſtranged from the Womb, they go aſtray as ſoon as they be born, ſpeaking lies.</hi> The Apoſtle tells us, 1 <hi>John</hi> 5.19. <hi>The whole World [i. e.</hi> all that are not born of God] <hi>lieth in wickedneſs:</hi> Infants are a part of the World, tho' not the whole World. The corrupt Nature in them, do biaſs
+<pb n="6" facs="tcp:151553:7"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:151553:7"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:151553:8"/>and incline them to walk in the Broad Way, not in the Narrow Way. Betimes, we ſee their little Feet, [<hi>i.e.</hi> their Words and Actions] ſtepping in the Broad Way. So that our Lord's Words may be true, tho' the greater part of Infants be ſaved.</p>
+               <p>As for the <hi>Helliſh Torments</hi> you ſpeak of ſo much, <hi>Bellarmin</hi>
+                  <note n="*" place="margin">Tom. 4. <hi>p.</hi> 144.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Militiſſima omnium poena Aug.</note> tells the <hi>Pelagians,</hi> [who are your Friends] and <hi>Catharinus,</hi> allow Infants Eternal Life, and Natural Bleſſedneſs, without any pain; other Opi<g ref="char:EOLhyphen"/>nions you may read in him, if you pleaſe: But where the Scripture is ſilent, why ſhould we ſpeak?</p>
+               <p>Having named <hi>Pelagius,</hi> and charging you in my Anſwer to your Book with <hi>Pelagianiſin,</hi> I will here conſider your Outcry againſt me: <hi>p.</hi> 28. where you tell me, what you have written in your Book, which you call <hi>Chriſtianiſinus Primitivus.</hi>
+               </p>
+               <p>I never ſaw any of your Book, nor did I ever hear of your Name, till I ſaw your Book againſt my ſelf; there I found you did own <hi>Peccatum Originans,</hi> but not <hi>Originatum.</hi> So I told you.</p>
+               <p>But for all your great Words in that Page, I ſtill ſay, Mr. <hi>Gran<g ref="char:EOLhyphen"/>tham</hi> is a Man very corrupt in the Doctrine of <hi>Original Sin,</hi> or he muſt groſly contradict himſelf. For,</p>
+               <p>
+                  <hi>First,</hi>
+                  <note place="margin">Againſt Mr. <hi>Pet.</hi> p. 27.</note> Twice in one Page you tell us, <hi>Infants are not guilty of any Sin of their own.</hi> Then they have no <hi>Sin</hi> of their own: It is im<g ref="char:EOLhyphen"/>poſſible to part <hi>Sin and Guilt,</hi> tho' God pardon the Puniſhment.</p>
+               <p>If Infants have no Sin of their own,
+<note place="margin">Circumci<g ref="char:EOLhyphen"/>ſion was Inſtituted before Chriſt, 1923. <hi>Bu<g ref="char:EOLhyphen"/>colc.</hi>
+                  </note> then the Adminiſtration of Circumciſion to Infants of eight days old, almoſt two thouſand years, was a vain Adminiſtration.</p>
+               <p>In a Sacrament, there is the <hi>Sign,</hi> and the thing <hi>ſignified.</hi> What was ſignified in Circumciſion. 10 <hi>Deut.</hi> 16.30 <hi>Deut.</hi> 6.4. <hi>Jer.</hi> 4. 9 <hi>Jer.</hi> 26. tells us [the <hi>
+                     <g ref="char:V">Ʋ</g>ncircumciſion of our Fleſh</hi> is joyned with our Eſtate, <hi>dead in Sin,</hi> 2 Col. 13.] But if Infants have no Sinof their <hi>own,</hi> then the thing <hi>ſignified</hi> was not there; ſo that it was no Sacrament, but the Adminiſtration of a <hi>Lye,</hi> according to your Doctrine.</p>
+               <p>
+                  <hi>Secondly,</hi>
+                  <note place="margin">Ibid. <hi>p.</hi> 11.</note> You tell us, <hi>They need not any Laws to be written in their Hearts during Infancy.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Infants are born either with that Image in which God Crea<g ref="char:EOLhyphen"/>ted <hi>Man,</hi> or not. If they be born with it, then they never fell from God, and ſo have no need of Chriſt. If not ſo born, then there is a <hi>Privation</hi> of that Righteouſneſs which ought to be, and a <hi>Poſition</hi> [as in a <hi>Diſeaſe</hi>] of that <hi>
+                     <g ref="char:V">Ʋ</g>nrighteouſneſs</hi> and Evil, which ought not to be. This Image is not reſtored but in <hi>Regeneration</hi> in which the Law is written in the Heart.</p>
+               <p>
+                  <hi>Thirdly,</hi>
+                  <note place="margin">Ibid. <hi>p.</hi> 13.</note> You tell us, <hi>Infants are innocent. Anſw.</hi> Then they never fell from God. You could ſtich <hi>Innocency,</hi> and <hi>Pardon</hi> together in your former Book; now you ſtitch <hi>Innocency and Sin</hi> together. You quote Dr. <hi>Taylor</hi> to juſtifie you: But he does not ſtitch <hi>Innocency and
+<pb n="9" facs="tcp:151553:8"/>Pardon</hi> together. However, I read Dr. <hi>Taylor</hi>'s words; but he was neither a Prophet nor Apoſtle; a very godly Man,
+<note place="margin">Mr. <hi>Antho<g ref="char:EOLhyphen"/>ny Burgeſs.</hi>
+                  </note> and as learned a Man as himſelf, who traced him in his Writings, gives this Character of him, <hi>He is not meerly</hi> Pelagian, Papiſt, Arminian, <hi>or</hi> Socinian, <hi>but an Hotch-potch of all: Like a Second</hi> Julian, <hi>in triumphing Lan<g ref="char:EOLhyphen"/>guage, with much boldneſs he hath decryed Original Sin, as if it were but a</hi> Non Ens. Thus he. We know ſin in one ſence is not <hi>Ens</hi>
+                  <note n="*" place="margin">As Ens convertitur cum Re.</note>; and that this Learned Man knew well. Dr. <hi>Taylor</hi>'s Authority, and yours, are both alike to me.</p>
+               <p>
+                  <hi>Fourthly,</hi> I ſuſpect you from your Deſcription of <hi>Original Sin.</hi>
+                  <note place="margin">p. 23. p. 28.</note> In both your Books you tell us: <hi>Original Sin is that came</hi> Upon <hi>all, even Infants.</hi> This word <hi>
+                     <g ref="char:V">Ʋ</g>pon,</hi> I do not underſtand; <hi>Paul</hi> calls it <hi>Indwel<g ref="char:EOLhyphen"/>ling Sin,</hi> 7 <hi>Rom.</hi> 17.20. I was conceived <hi>in ſin,</hi> 51 <hi>Pſal.</hi> 5. It may have ſome truth in reſpect of <hi>Adam</hi>'s Sin, by which <hi>Death paſſed</hi> upon <hi>all, and Judgment</hi> came upon <hi>all,</hi> 5 <hi>Rom.</hi> 12.18. But Original Sin is not without us.</p>
+               <p>
+                  <hi>Fifthly,</hi> You tell me, <hi>Infants have no Seminal <g ref="char:V">Ʋ</g>nbelief,
+<note place="margin">p. 25.</note> nor Impe<g ref="char:EOLhyphen"/>nitency in them.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> No wonder, ſince they have no Seeds of any Sin; then I hope they can eaſily believe, and embrace Chriſt upon Goſpel-terms, when they come to Underſtanding. They can eaſily <hi>Repent,</hi> if they ſhould chance to Sin. They are all born with Hearts of <hi>Fleſh,</hi> God need not take away the <hi>Heart of Stone</hi> from them. But for all your Commendations of Infants, we do not find them ſo ready to believe, and repent, when they grow up.</p>
+               <p>
+                  <hi>Sixthly,</hi> Whereas we ſay, <hi>That which will be a Thorn, will ſoon prick;</hi> So we find how quickly this thorny, corrupt Nature in Infants, begin to prick, and ſhew itſelf in actual Sin, ſo far as they are capable, in <hi>Revenge, Envy, Pride, Rebellion against Parents,</hi> which lately I obſerv'd to my ſorrow. Theſe Acts you excuſe,
+<note place="margin">p. 26.</note> and give to the <hi>example of ill Tutors.</hi> But I pray, whence is it they are ſo apt to learn? <hi>Pela<g ref="char:EOLhyphen"/>gius</hi> indeed would have Sin come in by <hi>imitation,</hi> not <hi>propagation.</hi> But <hi>Tully</hi> that Learned Heathen tells us:
+<note place="margin">
+                     <hi>Tuſc.</hi> l. 3.</note> 
+                  <hi>Simul ac Editi ſumus in Lu<g ref="char:EOLhyphen"/>com,</hi> &amp;c. As ſoon as ever we are born, we are preſently exerciſed in all manner of Evil. <hi>
+                     <g ref="char:V">Ʋ</g>t paene in lacte Nutricis Errorem ſuxiſſe vi<g ref="char:EOLhyphen"/>deamur:</hi> As if we ſucked down Errour with the Nurſes Milk. Com<g ref="char:EOLhyphen"/>pare this Heathen, with Mr. <hi>Grantham</hi> the Chriſtian.</p>
+               <p>B. <hi>Auſtin</hi>'s Obſervation of <hi>Envy,</hi> in a ſucking Child, you ſlight: But that Godly Learned Father could judge of <hi>Envy,</hi> as well as Mr. <hi>Grantham.</hi>
+               </p>
+               <p>As for the Scriptures you produce to clear Infants from ſin, 1 Pet.
+<note place="margin">p. 25.</note> 2.1, 2. <hi>Like new born Babes,</hi> i. e. <hi>to lay aſide all malice, guile,</hi> &amp;c.</p>
+               <pb n="10" facs="tcp:151553:9"/>
+               <p>
+                  <hi>Anſw.</hi> You do miſtake the Text; it is, As <hi>new Borns deſire the ſincere Milk,</hi> &amp;c. it is the <hi>Milk,</hi> and the <hi>Babe;</hi> it is not as <hi>new born Babes, lay aſide Malice,</hi> &amp;c. If Infants have no <hi>malice, guile,</hi> &amp;c. in <hi>ſemine,</hi> how ſhould they lay aſide what they have not? You will make Infants guilty by your Interpretation.</p>
+               <p>For the 1 <hi>Cor.</hi> 14.20. in <hi>wickedneſs</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>be ye Children:</hi> What do the Apoſtle mean, he would have them as Children, <hi>in your ſence,</hi> with<g ref="char:EOLhyphen"/>out the Seeds of Corruption, Unbelief, Impenitency, and ſo croſs him<g ref="char:EOLhyphen"/>ſelf in the 7 <hi>Rom.</hi> and 2 <hi>Epheſ.</hi> 3. and croſs the Apoſtle <hi>John,</hi> 1 <hi>Joh.</hi> 1.8. croſs to <hi>David,</hi> 51 <hi>Pſal.</hi> 5. and to our Lord, 3 <hi>Joh.</hi> 6. nor is our Lord croſs to himſelf, in that 18 <hi>Mat.</hi> 3. I reſolved for brevity, elſe I would have ſpoken to theſe Texts more.</p>
+               <p>But what before I ſpake of the <hi>Thorn,</hi> I may apply it to this: Tho' the <hi>Thorn</hi> will prick, and ſhew itſelf at firſt, yet it is not ſo bad then, and apt to hurt, as it will do two years after, when it runs into a Man's fleſh. So the ſins of theſe little ones, tho' croſs to the holineſs of the Law, yet they have not that degree of evil and guilt, with the ſame acts in adult Perſons.</p>
+               <p>I ſaid Mr. <hi>Grantham</hi> is very unſound, or he muſt contradict him<g ref="char:EOLhyphen"/>ſelf: How to reconcile his former ſayings, with what he writes <hi>page</hi> 13. I know not. <hi>If this be your ſence, Children polluted by Ori<g ref="char:EOLhyphen"/>ginal Sin, ſo under Condemnation, before they can come to Heaven, must be cleanſed from theſe pollutions. I agree</hi> [then you are on my ſide, a<g ref="char:EOLhyphen"/>ginſt your own Sect, whom yet you juſtifie.]</p>
+               <p>
+                  <hi>But the queſtion is, Whether they cannot be cleanſed from Sin, with<g ref="char:EOLhyphen"/>out they have Faith and Repentance?</hi>
+               </p>
+               <p>You miſtake Mr. <hi>Grantham,</hi> the queſtion was, <hi>Whether God Re<g ref="char:EOLhyphen"/>generates any Infants?</hi> which your Sect denied.</p>
+               <p>It was your Diſciple that told me, That <hi>Faith and Repentance</hi> are the two parts of <hi>Regeneration.</hi> From his telling me thus, I ar<g ref="char:EOLhyphen"/>gued.</p>
+               <p>They that are Regenerated, have Faith and Repentance [they that have the <hi>whole,</hi> have the <hi>parts</hi>] this is his Doctrine.</p>
+               <p>But all Infants ſaved, are Regenerated, ſay I, from Chriſt's words, 3 <hi>Joh.</hi> 3.5.</p>
+               <p>Therefore, all Children ſaved have Faith and Repentance [<hi>i. e.</hi> ſeminally].</p>
+               <p>To this you anſwer for him:
+<note place="margin">
+                     <hi>pag.</hi> 11.</note> 
+                  <hi>He that granted this, extends it only to the Adult, of whom theſe are required. So that this is but a meer</hi> Caption, <hi>unbecoming a grave Diſputant.</hi>
+               </p>
+               <p>It ſeems he wanted your Wit to expreſs himſelf plainly. But as for you who thus help him, according to your Doctrine then, there are <hi>two Regenerations;</hi> one for Infants, another for Men when their
+<pb n="11" facs="tcp:151553:9"/>Beards are grown, I pray do you define theſe two <hi>Regenerations,</hi> and ſhew us how they differ; then bring forth the plain Scriptures upon which you ground theſe, and prove your two Definitions. I never read but of <hi>one</hi> Regeneration in the Holy Canon; for your <hi>two</hi> Regenerations, I ſuppoſe you muſt fetch y our proof from 23 <hi>Revel.</hi> 19.</p>
+               <p>That Infants ſaved muſt be Regenerated, the Text is clear 3 <hi>John</hi> 3. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The word <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is an indefinitive word, limi<g ref="char:EOLhyphen"/>ted to no age, Infant or Adult. Infants are born <hi>once,</hi> but who<g ref="char:EOLhyphen"/>ever are generated, and born after the ordinary courſe of Man, if ſaved, muſt be born <hi>twice,</hi> or <hi>again. [Nicodemus</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in the fourth <hi>verſe</hi> tells us how Chriſt's <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in the third <hi>verſe</hi> is to be tranſlated] ſo muſt Infants, elſe no Heaven. <hi>Secondly,</hi> That which is <hi>born of the fleſh, is fleſh,</hi> 3 <hi>Joh.</hi> 6. So are all Infants, then they muſt be <hi>born of Water, and the Spirit,</hi> ver. 5. elſe no Heaven for Infants. Beſides the other Scriptures I mentioned before.</p>
+               <p>I ſhould define Regeneration thus: It is a work of the
+<note n="(a)" place="margin">3 Joh. 5.</note> Spirit of God in fallen Man, dead in ſin
+<note n="(b)" place="margin">2 Eph. 1.</note>, whereby infu<g ref="char:EOLhyphen"/>ſing a principle of Spiritual Life
+<note n="(c)" place="margin">2 Eph. 5.</note>, cauſing an habitual Confor<g ref="char:EOLhyphen"/>mity of all the Faculties of the Soul, to the Image and Will of God
+<note n="(d)" place="margin">4 Eph. 24.</note>, all the Faculties are inclined <hi>[actu primo]</hi> to live the Life of God
+<note n="(e)" place="margin">4 Eph. 18.</note>; by the ſame Spirit acting
+<note n="(f)" place="margin">Phil. 13.1 Phil. 11.15 Joh. 5.</note> this firſt Grace, they do <hi>[actu ſecundo]</hi> bring forth the fruits of Spiritual Life; and by the
+<note n="(g)" place="margin">2 Tim. 1.14. <hi>&amp;</hi> Rom. 11. 1 Pet. 15. 1 Cor. 1.8.</note> Indwelling, and continued acting of that good Spirit, they continue ſo to do, till Man comes to Glory.</p>
+               <p>Mr. <hi>Grif.</hi> told me, he did not ſay God <hi>could not</hi> Regenerate Infants, but God <hi>doth not</hi> Regenerate. But I ſay, if God <hi>can</hi> do it, then according to his revealed Will, he <hi>must</hi> do it, if In<g ref="char:EOLhyphen"/>fants be ſaved. And as for the firſt part of the Definition, God <hi>can</hi> do, and <hi>doth</hi> work it in all Infants, in which [to uſe the Me<g ref="char:EOLhyphen"/>taphor] are ſown the Seeds of Faith and Repentance, as well as of any other Graces. For what difficulty there ſhould be in ſow<g ref="char:EOLhyphen"/>ing the Seeds of <hi>Faith and Repentance,</hi> more then all other Graces, I cannot tell.</p>
+               <p>You tell me, <hi>pag.</hi> 25. <hi>Infants have no Object of Faith propounded to them,</hi> therefore <hi>they cannot have Faith ſeminally.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Nor is there an Object of <hi>Love</hi> propounded to them. God is the Object of our Faith and Love, ſo is Chriſt, 14 <hi>Joh.</hi> 1. But God is not propounded an Object of Faith, and Love to In<g ref="char:EOLhyphen"/>fants, therefore Infants are ſaved without any Seminal Faith in, or Love to God, as much as to ſay without any Grace at all.</p>
+               <pb n="12" facs="tcp:151553:10"/>
+               <p>I ſhall add but this: If there be no Seeds of Repentance and Faith in Chriſt, in the Regeneration of Infants, then the Righte<g ref="char:EOLhyphen"/>ouſneſs, the Sacrifice, Blood of Chriſt, with all the benefits of the <hi>Covenant of Grace,</hi> are imputed and applyed to perſons, where are only the Seeds of the Graces of <hi>the Covenant of Works,</hi> which no Man ſhall make me believe.</p>
+               <p>That the Lord doth Regenerate Infants ſaved, I doubt not; but how he doth it, neither Man nor Angel can tell. But you tell your Reader, <hi>p.</hi> 24. <hi>I vainly pretend to know it.</hi>
+               </p>
+               <p>I had been a vain Man indeed, had I pretended to it. But Mr. <hi>Grantham,</hi> if you be a Man of Truth, name the <hi>page</hi> [as I I do always when I charge you] in my Book, where your Rea<g ref="char:EOLhyphen"/>der may find what you tell him of me. I can name the <hi>page</hi> 74, where I have ſpoken the contrary, as expreſly as a Man can ſpeak. You tell your Reader, <hi>p.</hi> 31. <hi>of ſome old Profeſſors, that have been Teachers of others, and yet have not learned Civility or Honeſty, in treating thoſe who differ from them in Opinion.</hi> Who is more guilty of this then Mr. <hi>Grantham,</hi> how many Falſhoods have you charged me with in this Pamphlet. I reſolve to med<g ref="char:EOLhyphen"/>dle no more with <hi>Anabaptiſts</hi> for your ſake; not becauſe I find a<g ref="char:EOLhyphen"/>ny ſtrength in you; but for your charging ſuch things upon me which I never ſpake, or have expreſly ſpoken the contrary.</p>
+               <p>Becauſe I uſed this Argument for the neceſſity of <hi>Childrens Re<g ref="char:EOLhyphen"/>generation.</hi> All the Members of the Kingdom of Heaven are holy: But Infants are Members of the Kingdom of Heaven; <hi>Ergo,</hi> they are holy. But they are not holy by Birth, it is by Regeneration. You tell me, <hi>p.</hi> 13. <hi>Here I think you have given your Cauſe its Deaths-blow. What is become of the Birth-Priviledge ſo much gloried in by Mr.</hi> Baxter, <hi>and others?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Do you think ſo Mr. <hi>Grantham?</hi> I do not think I have given it the leaſt wound. Did Mr. <hi>Baxter,</hi> or others of our Di<g ref="char:EOLhyphen"/>vines, ever ſay, Children are <hi>inherently holy</hi> by Birth? You ſee I diſtinguiſh between Birth-holineſs, and Regeneration. Did the Apoſtle when he tells the believing <hi>Corinthians,</hi> 1 Cor. 7.14. That their <hi>Children were Saints,</hi> mean they were <hi>inherently holy</hi> by Birth? No ſure, he meant no more then as the Children under <hi>Abraham</hi>'s Covenant were called <hi>holy,</hi> 7 <hi>Deut.</hi> 6. and 14 <hi>Deut.</hi> 2. 9 <hi>Ezra</hi> 2. That Holineſs gave them a Title to Church-Memberſhip, and the Seal of the Covenant <hi>then,</hi> ſo it do now.</p>
+               <p>Only a word to the Reaſon why you and your Diſciple deny Children, can have any <hi>Seminal Faith,</hi> or <hi>Regeneration,</hi> becauſe theſe come by the <hi>Word</hi> preached, 10 <hi>Rom.</hi> 17. 1 <hi>Pet.</hi> 1.23. But
+<pb n="13" facs="tcp:151553:10"/>
+                  <hi>Infants can neither underſtand it, nor read it.</hi> Thus you have tyed up the Holy One to <hi>one</hi> inſtrument. But I pray, are all that are born <hi>Deaf</hi> damned? They can neither hear, read, nor un<g ref="char:EOLhyphen"/>derſtand the word: Verily, if God can Regenerate thoſe who are born <hi>Deaf,</hi> he can <hi>Infants</hi> without hearing or reading the Word. So he did before in Circumciſion where he pleaſed, through the word of his Covenant, <hi>I will be their God;</hi> and ſo he doth now in <hi>Baptiſm,</hi> when and where he pleaſeth. <hi>San<g ref="char:EOLhyphen"/>ctification,</hi> and <hi>Salvation</hi> being given to Baptiſm, as an Inſtru<g ref="char:EOLhyphen"/>ment in the hand of the Spirit, 3 <hi>Tit.</hi> 5. 1 <hi>Pet.</hi> 3.21. 5 <hi>Epheſ.</hi> 26. beſides that controverted Text, 3 <hi>Joh.</hi> 5. which the <hi>Ana<g ref="char:EOLhyphen"/>baptiſts</hi> who put ſo much in <hi>Dipping,</hi> may well underſtand of Baptiſm.</p>
+               <p>That you might make your Reader know what a pitiful Di<g ref="char:EOLhyphen"/>ſpurant I am, you tell him <hi>two faults</hi> I am guilty of in my Lo<g ref="char:EOLhyphen"/>gick, <hi>p.</hi> 10. My Argument was this:</p>
+               <p>They who are Regenerated have Faith and Repentance.</p>
+               <p>But all Infants ſaved are Regenerated; <hi>Ergo,</hi> they have Faith and Repentaece.</p>
+               <p>My firſt fault is this, <hi>Your</hi> Major <hi>ſhould have been univerſal,</hi> ſay you.</p>
+               <p>And is it not <hi>univerſal?</hi> It is not <hi>ſpecial,</hi> for it is neither <hi>par<g ref="char:EOLhyphen"/>ticular,</hi> nor <hi>proper,</hi> then it muſt be <hi>univerſal.</hi> It is <hi>Axioma,</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Mr. <hi>Grantham</hi> then it muſt be univerſal: For here <hi>praedicatum reciprocatur cum ſubjecto, ita ut ex praedicato fieri poſſit ſubjectum:</hi> As in this propoſition, <hi>Homo est animal rationale &amp; Animal rationale est Homo.</hi> So here, they that have the <hi>whole</hi> have the <hi>parts,</hi> and they who have the <hi>parts</hi> have the <hi>whole.</hi>
+               </p>
+               <p>A Propoſition may be <hi>univerſal</hi> in the form of it, tho' it be not true, but this is both univerſal and true, till you can prove your <hi>two</hi> Regenerations.</p>
+               <p n="2">2. The ſecond fault is <hi>Ignoratio Elenchi.</hi>
+               </p>
+               <p>Say you ſo Mr. <hi>Grantham;</hi> What was the Queſtion I pray? Was it not, <hi>whether Infants ſaved, had Faith and Repentance?</hi> Did I not ſtick to the queſtion, and conclude it <hi>affirmatively,</hi> from your own Diſciple's Doctrine and Conceſſions, that they are the <hi>two parts of Regeneration;</hi> but that they were <hi>Regenerated,</hi> I proved.</p>
+               <p>Do you Mr. <hi>Grantham</hi> underſtand what <hi>Ignoratio Elenchi</hi> is?</p>
+               <p>You tell your Reader, <hi>p.</hi> 12. ſpeaking of me; <hi>It is his manner to confound his Diſcourſes with Diverſities.</hi> I challenge you Mr. <hi>Gran<g ref="char:EOLhyphen"/>tham,</hi> or any of your Sect, to ſhew me where once I have ſtated a Queſtion, that in my Diſcourſe I depart from it, to another thing diverſe from it. I did not ſo in this place: For the Queſtion was, Whether <hi>Seeds</hi> do not go before Fruits, <hi>Principles</hi> before Actions?
+<pb n="14" facs="tcp:151553:11"/>So God ſow the Seeds of Grace, infuſe Divine Principles into In<g ref="char:EOLhyphen"/>fants that are ſaved, tho' they die before they come to act. I men<g ref="char:EOLhyphen"/>tioned <hi>Peter,</hi>
+                  <note place="margin">1 Joh 3.9.</note> but I did not argue thus: <hi>Peter</hi> had a Seed, therefore he could not fall <hi>totally</hi> and <hi>finally:</hi> that had been another Queſtion indeed; but I ſaid, tho' <hi>Peter</hi> did fall, yet there was a <hi>Seed</hi> in him; I aimed only at the word <hi>Seed,</hi> of which I was diſcourſing, as a word being uſed in Scripture.</p>
+               <p>To my fourth Argument I uſed,
+<note place="margin">page 15.</note> 
+                  <hi>viz.</hi> If all dying Infants are ju<g ref="char:EOLhyphen"/>ſtified and ſaved without Regeneration; then there are millions in Heaven, in whom the Spirit of God, as the Third Perſon in the Bleſſed Trinity, had nothing to do in their Salvation.</p>
+               <p>You give two Anſwers, the firſt very abſurd; only I reſolved to be ſhort, elſe I would have ſhewn it.</p>
+               <p>Your ſecond is this:</p>
+               <p>
+                  <hi>All theſe dying Infants for whom Christ ſhed his precious Blood, have ſufficient aſſiſtance from the Spirit, in the buſineſs of their Salvation.</hi>
+               </p>
+               <p>
+                  <hi>But he ſhed for all.</hi>
+               </p>
+               <p>The <hi>Major</hi> you prove thus: <hi>They do not reſist the Holy Ghost.</hi>
+               </p>
+               <p>I anſwer: The work of the Spirit in the buſineſs of their Salvati<g ref="char:EOLhyphen"/>on, is their <hi>Regeneration,</hi> their <hi>Sanctification:</hi> then we are agreed, you yield me the Queſtion againſt your own Party; and this ſhall not diſpleaſe me, if they be all ſaved, as you falſly tell your Rea<g ref="char:EOLhyphen"/>der. Yet I am not ſatisfied in your Diſcourſe.</p>
+               <p>
+                  <hi>Infants have ſufficient aſſiſtance, becauſe they do not reſist,</hi> ſay you. This is ſomething odd methinks.</p>
+               <p>
+                  <hi>First,</hi> What then are Infants <hi>active,</hi> tho' weak, and ſo the Spi<g ref="char:EOLhyphen"/>rit <hi>aſſist them;</hi> for ſo I conceive <hi>aſſiſtance</hi> doth properly reſpect one that <hi>acts,</hi> but is too weak to perfect his act. Are we ſaid proper<g ref="char:EOLhyphen"/>ly to aſſiſt them who do nothing at all? we aſſiſt <hi>weak</hi> men, not <hi>dead</hi> men.</p>
+               <p>
+                  <hi>Secondly,</hi> Do the Spirit work <hi>morally,</hi> by way of <hi>Suaſion</hi> with In<g ref="char:EOLhyphen"/>fants, and they not reſiſt him, as they 7 <hi>Acts</hi> 51.</p>
+               <p>
+                  <hi>Thirdly,</hi> The corrupt Nature in Infants incline them to reſiſt him, and not to comply with him.</p>
+               <p>
+                  <hi>Fourthly,</hi> Are you ſure that Chriſt ſhed his Blood for every <hi>Indi<g ref="char:EOLhyphen"/>vidual</hi> dying Infant <hi>intentionally?</hi> 2. And was it not for <hi>all</hi> Infants as well as <hi>dying</hi> Infants? 3. And did he ſhed it for them only while they were Infants, and not when they grew up to be adult? 4. And doth he then give to them all <hi>ſufficient Grace?</hi> 5. And is that ſuffici<g ref="char:EOLhyphen"/>ent Grace <hi>ſtatu lapſo,</hi> that doth not attain its end? If the ſtony Heart that is to be taken away, be for ſtonineſs <hi>ſix Degrees,</hi> the Grace which takes it away muſt be <hi>ſeven Degrees,</hi> elſe 'tis not ſuf<g ref="char:EOLhyphen"/>ficient. 6. How comes it about then that Chriſt fails ſo much, even
+<pb n="15" facs="tcp:151553:11"/>the far greateſt part in his <hi>Intentions?</hi> Certainly the Father and the Son had the ſame Intentions, when the Covenant of Redem<g ref="char:EOLhyphen"/>ption paſſed between them.</p>
+               <p>But <hi>p.</hi> 16, you propound a profound Queſtion, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Whether the Covenant of Grace was taken from the whole World, and appropriated only to</hi> Abraham and his Seed, <hi>from the time of making the Covenant of Circumciſion,</hi> 17 Gen. 7.</p>
+               <p>I prithee <hi>Thomas,</hi> how came this Queſtion into thy Crown? My ſhallow Brains could not have invented it. Will you faſten this upon me too, when my words are expreſly the contrary, <hi>p.</hi> 20. <hi>By the Covenant made with</hi> Abraham <hi>and his Seed, and the Seal of it, God did ſeparate and divide</hi> Abraham<hi>'s Seed from the World, living under that Covenant you ſpeak of.</hi> How was this Covenant taken from the World, Mr. <hi>Grantham,</hi> when I tell you expreſly the <hi>World li<g ref="char:EOLhyphen"/>ved under it,</hi> tho' that Covenant was made with <hi>Abraham</hi> and his Seed?</p>
+               <p>Take my Mind thus: There was one ſhort and Enigmatical Diſcovery of Chriſt, and Goſpel-Grace, 3 <hi>Gen.</hi> 15. <hi>In the Seed of the Woman.</hi> After this, tho' there were thouſands in the World, yet God ſingles out <hi>Abraham,</hi> and makes another Diſcovery to him, <hi>In thy Seed ſhall all the Nations of the Earth be bleſſed,</hi> 12 Gen. 3. Whence the Apoſtle, 2 <hi>Heb.</hi> 16. <hi>He that took on him the Seed of Abraham;</hi> not of <hi>Noah,</hi> nor any Man elſe. After God had given this <hi>Promiſe</hi> which concerned the whole World, the benefit whereof divers that were not of the Church of the <hi>Jews</hi> did partake of, I doubt not; God was pleaſed to make a <hi>Covenant</hi> with <hi>Abraham</hi> to be the God of him and his Seed, and commanded this Covenant to be ſealed, and thus did diſtinguiſh his Seed from the World, living under the <hi>Promiſe</hi> made firſt to <hi>Abraham.</hi> This <hi>Abraham,</hi> not <hi>Noah,</hi>
+                  <note place="margin">4 Rom. 11.16.18. 3 Gal. 29, 11 Rom. 17.</note> God honours with the Title of <hi>the Father of Believers.</hi> Gentile Belie<g ref="char:EOLhyphen"/>vers are called <hi>Abraham's Children,</hi> not <hi>Noah</hi>'s. They are grafted into <hi>Abraham's Stock,</hi> not <hi>Noah's.</hi> As then <hi>Abraham</hi>'s Seed, born under that Covenant, were Members of the Church with their Pa<g ref="char:EOLhyphen"/>rents, had the initiating Ordinance applied to them: So the Gen<g ref="char:EOLhyphen"/>tile Believers [whoſe Father <hi>Abraham</hi> is] Seed being under the Co<g ref="char:EOLhyphen"/>venant of their Father <hi>Abraham,</hi> are Members of the Goſpel-Church with their Parents, have a right to the initiating Ordinance, <hi>Ba<g ref="char:EOLhyphen"/>ptiſm:</hi> unleſs it can be proved that God hath <hi>nulled Abraham</hi>'s Co<g ref="char:EOLhyphen"/>venant <hi>expreſly</hi>
+                  <note n="*" place="margin">See my Scripture Warraw, <hi>p.</hi> 8, 9.</note>: which all the <hi>Anabaptiſts</hi> in <hi>England</hi> can never do. And this is no <hi>obſcure Conſequence,</hi> as you call it, to prove In<g ref="char:EOLhyphen"/>fant-Baptiſm, but it is far more clear, plain, intelligible, then that Conſequence by which our Lord proved the great Article of our <hi>Reſurrection.</hi>
+               </p>
+               <pb n="16" facs="tcp:151553:12"/>
+               <p>As for <hi>Noah,</hi> about whom you ſpend ſo many lines, we honour him as much as you: But do you ſhew where God made ſuch a Covenant with him and his Seed, as he did with <hi>Abraham</hi> and his Seed, and ſealed it. So that <hi>Noah</hi>'s Seed might humbly and be<g ref="char:EOLhyphen"/>lievingly lay hold upon God for their God, by way of Covenant; elſe all your words about <hi>Noah,</hi> are but your rambling from the Queſtion, a meer <hi>Ignoratio Elenchi,</hi> as I told you before.</p>
+               <p>Then you ſcribble ſomething about <hi>Free-will,</hi> and tell me of Mr. <hi>Baxter</hi>'s Judgment: I am of his Opinion, I will not enter in<g ref="char:EOLhyphen"/>to that Controverſie; only two things I ſay.</p>
+               <p>Firſt, <hi>Liberty</hi> as it is oppoſed to <hi>natural neceſſity,</hi> and <hi>co-action</hi> is eſſential to the <hi>Will.</hi> In the work of the Father drawing the Soul to Chriſt, the <hi>Will</hi> in cloſing with, and embracing of Chriſt is as <hi>free</hi> in reſpect of <hi>Co-action,</hi> as it was in ſinning againſt Chriſt. What would you have more Mr. <hi>Grantham?</hi>
+               </p>
+               <p>Secondly, <hi>Liberty</hi> and ſome <hi>neceſſity</hi> may ſtand together, <hi>viz. Libertas Conſequentiae,</hi> elſe the <hi>Will</hi> muſt be more than bruitiſh.</p>
+               <p>But if you have a mind to ſhew what a gallant Fellow you are in this Controverſie, I deſire you to read and anſwer two Men who lived in Communion with the Church of <hi>Rome, Bradwardin,</hi> and <hi>Janſenius,</hi> his <hi>Auguſtinus;</hi> I name no Proteſtants. But <hi>Janſe<g ref="char:EOLhyphen"/>nius</hi> I commend to you upon this account: Becauſe as I was inform<g ref="char:EOLhyphen"/>ed by a ſober <hi>Dutch</hi> Miniſter, whoſe Uncle was at <hi>Janſenius</hi>'s Commencement; as you were bound firſt to a <hi>Taylor,</hi> ſo he was bound firſt to a <hi>Carpenter:</hi> but he was ſo exceedingly Bookiſh while but a Youth, that his Maſter wiſhed his Parents to take him away, get ſome help of Friends, and put him to School; there in<g ref="char:EOLhyphen"/>deed he differs from you, as your Admirer tells us here, that you ſerved out your Apprentiſhip. But there is a ſecond difference: This excellent Carpenter choſe ſuch Timber, and built ſo ſtrong, that all the Jeſuits [your Friends in this Controverſie] could never ſhake his Building. But you that were a <hi>Taylor,</hi> do but as <hi>Adam</hi> did, <hi>ſew Fig-leaves together, to make an Apron,</hi> which will not co<g ref="char:EOLhyphen"/>ver your nakedneſs.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
